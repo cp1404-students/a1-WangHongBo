@@ -3,7 +3,7 @@
 
 Assignment 1 for CP1404/CP5632, IT@JCU
 
-By: _Your Name_
+By: _Wang Hongbo_
 
 This repo contains starter files including a Python file and two CSV files.  
 `songs.csv` is a data file for you to use.  
@@ -16,8 +16,8 @@ the `answer...` parts).
 
 1. How long did the entire project (assignment 1) take you?
 
-   > answer...
+   > 4 days
 
 2. What do you plan to do differently in your development process for assignment 2?
 
-   > answer...
+   > For assignment 2, I plan to improve my Time Management and Planning. I'll create a schedule to break down the project into smaller tasks with set deadlines, ensuring a more organized approach and avoiding last-minute stress
